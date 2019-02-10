@@ -4,7 +4,7 @@ Uses Phoenix to serve the HTTP API and a GenServer called `NumbersServer` to kee
 
 ## Dependencies
 
-- Elixir 1.5 or higher
+- Elixir 1.8 or higher
 
 ## Start dev server
 

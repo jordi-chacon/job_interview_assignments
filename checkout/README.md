@@ -6,7 +6,7 @@ Spec can be found [here](assignment.pdf).
 
 ## Dependencies
 
-- Elixir 1.6 or higher
+- Elixir 1.8 or higher
 
 ## Run tests
 
